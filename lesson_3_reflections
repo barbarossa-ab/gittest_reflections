@@ -8,3 +8,11 @@ with your remote repository?
 It's better to control what code enters in your local version; you can currently work on a feature on
 a branch and maybe somebody commits code related to the same feature (in the same branch) in the remote 
 and conflicts with your code.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Fork is used to create a new GitHub repository with the content of an existing GitHub repository while 
+retaining a reference to the original. It is a GitHub action, and the service keeps track of the forks 
+for each repository.
+You can clone a remote or a local repository - create a copy of a repo without a link to it.
+The branch is part of a repository. 
