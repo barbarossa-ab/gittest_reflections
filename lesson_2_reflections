@@ -1,11 +1,3 @@
-It is a long established fact that a reader will be distracted by the readable content 
-of a page when looking at its layout. The point of using Lorem Ipsum is that it has a 
-more-or-less normal distribution of letters, as opposed to using 'Content here, content 
-here', making it look like readable English. Many desktop publishing packages and web page 
-editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' 
-will uncover many web sites still in their infancy. Various versions have evolved over 
-the years, sometimes by accident, sometimes on purpose (injected humour and the like).
-
 How can you use the staging area to make sure you have one commit per logical change?
 
 You add to staging area only the changes that are part of one logical change.
@@ -13,3 +5,7 @@ You add to staging area only the changes that are part of one logical change.
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 When you want to make changes that are not supposed to impact the official project.
+
+How do the diagrams help you visualize the branch structure?
+
+You can see how commits are related to each other (like a linked list, parent-child relation).
