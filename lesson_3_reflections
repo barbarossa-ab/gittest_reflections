@@ -23,3 +23,5 @@ You can more easily keep track of the differences between:
  - your version of the project (which contains offline changes) and the last known state of the remote
  - the current state of the remote and your last known state
 Based on these changes you can merge the versions (branches) and sync the versions.
+
+
