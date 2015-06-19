@@ -16,3 +16,10 @@ retaining a reference to the original. It is a GitHub action, and the service ke
 for each repository.
 You can clone a remote or a local repository - create a copy of a repo without a link to it.
 The branch is part of a repository. 
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+You can more easily keep track of the differences between:
+ - your version of the project (which contains offline changes) and the last known state of the remote
+ - the current state of the remote and your last known state
+Based on these changes you can merge the versions (branches) and sync the versions.
