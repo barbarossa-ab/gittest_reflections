@@ -1,0 +1,11 @@
+How can you use the staging area to make sure you have one commit per logical change?
+
+You add to staging area only the changes that are part of one logical change.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+When you want to make changes that are not supposed to impact the official project.
+
+How do the diagrams help you visualize the branch structure?
+
+You can see how commits are related to each other (like a linked list, parent-child relation).
